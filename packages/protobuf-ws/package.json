@@ -1,0 +1,20 @@
+{
+  "name": "@sooboy/protobuf-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types":"dist/index.d.ts",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Regan",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "rxjs": "^7.5.7",
+    "uuid": "^9.0.0",
+    "ws": "^8.11.0"
+  }
+}

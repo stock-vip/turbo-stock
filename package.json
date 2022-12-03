@@ -20,6 +20,11 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "md5": "^2.3.0",
+    "protobufjs-cli": "^1.0.2",
+    "rxjs": "7",
+    "ws": "^8.11.0"
+  },
   "packageManager": "yarn@1.22.19"
 }
